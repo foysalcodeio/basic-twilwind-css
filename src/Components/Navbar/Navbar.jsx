@@ -43,7 +43,7 @@ const Navbar = () => {
                 
                 
             </div>
-            <ul className={`md:flex absolute md:static duration-500 ${open ? 'top-6' : '-top-48'} `}>
+            <ul className={`md:flex absolute md:static duration-500 ${open ? 'top-6' : '-top-48'} bg-slate-50 `}>
                 {
                     routes.map(route => 
                     <Link
