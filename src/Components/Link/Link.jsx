@@ -1,10 +1,10 @@
 import React from 'react';
 
-const Link = () => {
+const Link = ({ route }) => {
     return (
-        <div>
-            
-        </div>
+        <li className='mr-12 font-semibold'>
+            <a href={route.path}>{route.name}</a>
+        </li>
     );
 };
 
