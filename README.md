@@ -1,8 +1,11 @@
 
 # Tailwind CSS
 # HeroIcons
+# Recharts
+# axios
 
-basically we are simple!
+
+
 
 
 
