@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-        "name": "Cloth",
+        "name": "SuperWidget X",
         "price": 19.99,
-        "features": ["Feature 1A", "Feature 2A", "Feature 3A"]
+        "features": ["Wireless Charging", "Waterproof Design", "Smart Assistant Integration", "Extended Battery Life", "Customizable LED Lights"]
     },
     {
         "id": 2,
-        "name": "Shop",
+        "name": "TechMaster Pro",
         "price": 29.99,
-        "features": ["Feature 1B", "Feature 2B", "Feature 3B"]
+        "features": ["High Definition Display", "Noise Cancelling Technology", "Fitness Tracking", "Fast Charging", "Bluetooth 5.0"]
     },
     {
         "id": 3,
-        "name": "Computer",
+        "name": "InnovateFold 2000",
         "price": 39.99,
-        "features": ["Feature 1C", "Feature 2C", "Feature 3C"]
+        "features": ["360-Degree Camera", "Biometric Security", "Foldable Design", "Augmented Reality Support", "Dual SIM"]
     }
 ]
