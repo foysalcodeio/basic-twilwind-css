@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Cloth",
+        "price": 19.99,
+        "features": ["Feature 1A", "Feature 2A", "Feature 3A"]
+    },
+    {
+        "id": 2,
+        "name": "Shop",
+        "price": 29.99,
+        "features": ["Feature 1B", "Feature 2B", "Feature 3B"]
+    },
+    {
+        "id": 3,
+        "name": "Computer",
+        "price": 39.99,
+        "features": ["Feature 1C", "Feature 2C", "Feature 3C"]
+    }
+]
